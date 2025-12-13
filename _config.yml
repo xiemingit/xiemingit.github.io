@@ -1,9 +1,9 @@
 # Site settings
-title: Min
+title: YML title Min
 description: >- # this means to ignore newlines until "baseurl:"
-  A brief introduction about me.
+  YML desc
 baseurl: "" # the subpath of your site, e.g. /blog (leave blank for root)
-url: "https://xiemingit.github.io" # replace with your GitHub Pages URL or custom domain
+url: "https://allenxie.info/" # replace with your GitHub Pages URL or custom domain
 
 # Build settings
 theme: minima # A simple default theme; you can change to others like "jekyll-theme-cayman"
